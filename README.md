@@ -1,6 +1,6 @@
-# \<YourProjectName>
+# YourProjectName
 
-\<YourProjectName> is a Minecraft server made with Minestom server library in Kotlin.
+YourProjectName is a Minecraft server made with Minestom server library in Kotlin.
 
 ## Development setup
 
@@ -12,7 +12,7 @@ Walla! You're now good to code.
 
 1. To build, run the following command in the terminal:
 ```
-~$ cd path/to/<YourProjectName>
+~$ cd path/to/YourProjectName
 ~$ ./gradlew clean shadowJar
 ```
 
